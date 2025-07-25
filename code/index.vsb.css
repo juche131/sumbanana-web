@@ -1,0 +1,36 @@
+.tz ul li a .em::after {
+        content: "";
+        position: absolute;
+         right: 0; 
+        top: -25px;
+        width: 60px;
+        height: 60px;
+        background: url(images/xw.png) no-repeat center center;
+        background-size: 60px auto;}
+    .tz ul li a .zd::after {
+        content: "";
+        position: absolute;
+         right: 0; 
+        top: -25px;
+        width: 60px;
+        height: 60px;
+        background: url(images/zd.png) no-repeat center center;
+        background-size: 60px auto;}
+.tz ul li a .em::after {
+        content: "";
+        position: absolute;
+         right: 0; 
+        top: -25px;
+        width: 60px;
+        height: 60px;
+        background: url(images/xw.png) no-repeat center center;
+        background-size: 60px auto;}
+    .tz ul li a .zd::after {
+        content: "";
+        position: absolute;
+         right: 0; 
+        top: -25px;
+        width: 60px;
+        height: 60px;
+        background: url(images/zd.png) no-repeat center center;
+        background-size: 60px auto;}
